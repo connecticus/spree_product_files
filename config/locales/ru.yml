@@ -1,0 +1,9 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  spree:
+    product_file: 'Файл'
+    product_files: 'Файлы'
+    new_product_file: 'Добавить файл'
+    no_product_files: 'Файлы не загружены'
